@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Atividade_abstração_e_herança
+{
+     class Empresario
+    {
+
+        public string nome;
+        public string CNPJ;
+        public string endereço;
+        public string cidade;
+        public string nomeEmpresa;
+    }
+}

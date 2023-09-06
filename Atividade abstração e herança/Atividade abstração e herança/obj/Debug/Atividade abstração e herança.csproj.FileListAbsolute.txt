@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\obj\Debug\Atividade abstração e herança.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\obj\Debug\Atividade abstração e herança.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\obj\Debug\Atividade abstração e herança.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\bin\Debug\Atividade abstração e herança.exe.config
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\bin\Debug\Atividade abstração e herança.exe
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\bin\Debug\Atividade abstração e herança.pdb
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\obj\Debug\Atividade abstração e herança.exe
+C:\Users\Aluno\Desktop\PROJETO-POO\Atividade abstração e herança\Atividade abstração e herança\obj\Debug\Atividade abstração e herança.pdb
